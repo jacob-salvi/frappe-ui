@@ -134,7 +134,7 @@ describe('Textarea', () => {
       {
         size: 'xl',
         fontClass: 'text-p-3xl',
-        minHClass: 'min-h-11',
+        minHClass: 'min-h-12',
         px: 20,
         lineHeight: '29.6px',
       },
